@@ -13,4 +13,5 @@ var $dt = ('dt');
 
 
 $header.addClass('masthead');
-$h1.removeClass('big-label')
+$h1.removeClass('big-label');
+$h1.addClass('logo');
