@@ -15,3 +15,8 @@ var $dt = ('dt');
 $header.addClass('masthead');
 $h1.removeClass('big-label');
 $h1.addClass('logo');
+
+$main.addClass('wrapper');
+
+$pFirstChild.addClass('intro');
+$h2.addClass('slug-head');
